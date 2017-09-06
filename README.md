@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Static Resume
+This is the source code for the tutorial application associated with the "IBM Bluemix Application Development" [course on Udemy]().
 
-You can use the [editor on GitHub](https://github.com/glindsay65/udemy-bluemix/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the initial and _static version_ of the resume application. There is no dynamic content or database associated with this version.  It is pure HTML and CSS only, although Bootstrap 4.0 is used. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The static resume can be run locally or uploaded to IBM Bluemix and run from there.
 
-### Markdown
+Throughout the course, we will expand and build on this initial version.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to install
+1. First, make a fork of this repository (repo) by [following these instructions](https://help.github.com/articles/fork-a-repo/).
+1. Then, clone your new repository to your local machine by [following these instructions](https://help.github.com/articles/cloning-a-repository/) in the github documentation.
+1. Now, you can edit the files locally or run a local server to see the static resume in your browser. You can also upload the files to IBM Bluemix and run the application there.
 
-```markdown
-Syntax highlighted code block
+## Where to get help
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/glindsay65/udemy-bluemix/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Review the course (if you are enrolled.)
+1. Stack Overflow (for generic Bluemix or Git questions)
+1. Google/Bing
+1. Contact the author (always happy to help.)
